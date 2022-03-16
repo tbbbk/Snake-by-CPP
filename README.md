@@ -11,7 +11,7 @@
                 Forgive me for being too lazy to write the Notes
             </del>
             <br>
-            run successfully on vscode&dev cpp
+            *run successfully on vscode&dev cpp
         </div>
     </div>
 </body>
