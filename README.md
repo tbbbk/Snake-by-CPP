@@ -11,6 +11,7 @@
             <del>
                 Forgive me for being too lazy to write the Notes
             </del>
+            run successfully on vscode&dev cpp
         </div>
     </div>
 </body>
