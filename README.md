@@ -4,8 +4,7 @@
         <hr>
         <h2>It was done on 2022/1/6 night</h2>
         <h2>Thx for Playing my game.</h2>
-        <div style="text-align: right;"> ---tbk</div>
-        <div style="text-align: right;"> 2022/3/16</div>
+        <p align="right">tbk<br>2022/3/16</p>
         <br><br><br><br><br>
         <div style="font-size: smaller;">
             <del>
